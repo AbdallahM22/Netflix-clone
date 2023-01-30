@@ -1,0 +1,64 @@
+.card {
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.card-light {
+    background-color: #29534e;
+}
+.card-dark {
+    background-color: #000d13;
+    color: #fff;
+}
+.heading-dark {
+    text-align: center;
+    font-weight: bold;
+}
+.heading-light {
+    text-align: center;
+    font-weight: bold;
+    color: #ff206e;
+}
+.price {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.price span {
+    font-size: 18px;
+}
+.price-light {
+    color: #fff;
+}
+.price-dark {
+    color: #EE9B00;
+}
+.benifits {
+    min-height: 150px;
+}
+.benifits li {
+    font-size: 15px;
+    color: #fff;
+}
+.icon {
+    margin-right: 5px;
+    color: #659664;
+}
+.button {
+    display: block !important;
+    width: 90%;
+    margin:  auto;
+    background-color: #659664 !important;
+    color: white !important;
+}
+.button:hover {
+    transition: 0.3s;
+    transform: scale(1.05);
+}
+
+.right {
+    left: 25px;
+}
